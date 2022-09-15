@@ -1,4 +1,19 @@
-# Svelte + TS + Vite
+# Greenhouse control website
+Control your greenhouse temperature system with this svelte site made with Vite + TS + Svelte + Tailwind
+
+## To run dev build:
+npm run dev
+
+## To host dev build
+npm run host
+
+
+
+
+
+# Below is the standard readme:
+
+## Svelte + TS + Vite
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
 
