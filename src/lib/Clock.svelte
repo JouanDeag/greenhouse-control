@@ -14,5 +14,7 @@
 </script>
 
 <div class="select-none">
-  {hour.toLocaleString('sv-SE', {minimumIntegerDigits: 2, useGrouping:false})} : {min.toLocaleString('sv-SE', {minimumIntegerDigits: 2, useGrouping:false})} : {sec.toLocaleString('sv-SE', {minimumIntegerDigits: 2, useGrouping:false})}
+  {hour.toLocaleString('sv-SE', {minimumIntegerDigits: 2, useGrouping:false})} : 
+  {min.toLocaleString('sv-SE', {minimumIntegerDigits: 2, useGrouping:false})} : 
+  {sec.toLocaleString('sv-SE', {minimumIntegerDigits: 2, useGrouping:false})}
 </div>
